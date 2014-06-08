@@ -17,7 +17,7 @@ background-position: center center;
 padding:40px 40px 20px 40px;
 color: #666666;
 }
-#header .site-name{font-family: arial;font-size: 48px;}
+#header .site-name{margin:30px;padding:0 0 0 20px;font-family: arial;font-size: 48px;}
 #header .site-description{font-size: 16px;}
 div.Top1 {
 	width: auto;
