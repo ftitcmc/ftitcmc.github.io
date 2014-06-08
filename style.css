@@ -8,7 +8,8 @@ body {
 }
 
 /* menu styles **************************************************************************************************************************/
-#wrapper{background-size: cover;width:90%;max-width: 1232px;padding-left: 0.625%;padding-right: 0.625%;margin: auto;background-repeat: no-repeat;background-attachment: fixed;background-position: center center;}
+#wrapper{background-size: cover;background-color: #efefef;background-repeat: no-repeat;background-attachment: fixed;background-position: center center;background-image:}
+.gridContainer {width: 88.75%;max-width: 1232px;padding-left: 0.625%;padding-right: 0.625%;margin: auto;}
 #header .site-name{margin:30px;padding:0 0 0 20px;font-family: arial;font-size: 48px;}
 #header .site-description{font-size: 16px;}
 div.Top1 {
