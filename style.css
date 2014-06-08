@@ -8,10 +8,7 @@ body {
 }
 
 /* menu styles **************************************************************************************************************************/
-#wrapper{background-size: cover;width:960px;
-background-repeat: no-repeat;
-background-attachment: fixed;
-background-position: center center;}
+#wrapper{background-size: cover;width:90%;max-width: 1232px;padding-left: 0.625%;padding-right: 0.625%;margin: auto;background-repeat: no-repeat;background-attachment: fixed;background-position: center center;}
 #header .site-name{margin:30px;padding:0 0 0 20px;font-family: arial;font-size: 48px;}
 #header .site-description{font-size: 16px;}
 div.Top1 {
