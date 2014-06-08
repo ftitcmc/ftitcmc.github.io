@@ -8,10 +8,16 @@ body {
 }
 
 /* menu styles **************************************************************************************************************************/
-
+#wrapper{background-size: cover;
+background-color: #ABABAB;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center center;
+background-image:url()}
 #header{
 padding:40px 40px 20px 40px;
-	color: #666666;
+color: #666666;
+font-size:24px;
 }
 
 div.Top1 {
