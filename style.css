@@ -17,9 +17,9 @@ background-image:url()}
 #header{
 padding:40px 40px 20px 40px;
 color: #666666;
-font-size:24px;
 }
-
+#header .site-name{font-size:24px;}
+#header .site-description{font-size:18px;}
 div.Top1 {
 	width: auto;
 	position: inherit;
