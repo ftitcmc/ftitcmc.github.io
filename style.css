@@ -8,7 +8,7 @@ body {
 }
 
 /* menu styles **************************************************************************************************************************/
-#wrapper{background-size: cover;
+#wrapper{background-size: cover;width:960px;
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-position: center center;}
