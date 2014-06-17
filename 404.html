@@ -104,17 +104,22 @@
 <div>
 404 page not found.
 </div>
-
-  <div id="search">
-      <div class="region region-search">
+<div id="search">
+  <ul>
+  	<li><a href="/">Home</a></li>
+	    <!--this php code goes in the page.tpl.php or in a block with php filter -->
+<li><a href="/user">Login</a></li> 
+<li><a href="/contact-us">Contact us</a></li>
+  </ul>
+    <div class="region region-search">
     <form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
       <h2 class="element-invisible">Search form</h2>
     <div class="form-item form-type-textfield form-item-search-block-form">
   <label class="element-invisible" for="edit-search-block-form--2">Search </label>
- <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text">
 </div>
-<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-xdrNE1JOUKxtNoue9wwr_VDUYHdjehnY2jkSWgIIdhg" />
-<input type="hidden" name="form_id" value="search_block_form" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-xdrNE1JOUKxtNoue9wwr_VDUYHdjehnY2jkSWgIIdhg">
+<input type="hidden" name="form_id" value="search_block_form">
 </div>
 </div></form>
 
